@@ -1,5 +1,5 @@
 # Konverter-dez-hex-to-bin
-Coverter
+
 At some point at school i needed a converter that only converts Decimal to Hexadecimal to Binary at once. So I made this converter to help me.
 
 The converter is only converting decimal or hexadecimal to binary. 
